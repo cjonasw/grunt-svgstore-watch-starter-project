@@ -1,0 +1,46 @@
+html{
+  height: 100%;
+}
+
+body{
+  background: #222;
+  height: 100%;
+  margin: 0;
+}
+
+.foo{
+  fill: red;
+  background: whitesmoke;
+
+  width: 10em;
+  height: 10em;
+
+  width: 600px;
+  height: 600px;
+
+  width: 50%;
+  height: 50%;
+}
+
+.bar{
+  fill: fuchsia;
+  pointer-events:all;
+  width: 2em;
+  -webkit-transition: width 0.5s ease, fill 0.1s ease, background 0.2s ease;
+}
+
+.bar:hover{
+  fill: blue;
+  width: 6em;
+  background: orange;
+}
+
+use{
+  width: 200px;
+  fill: lime;
+  -webkit-transition: fill 0.2s ease;
+}
+
+use:hover{
+  fill: yellow;
+}
