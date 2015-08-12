@@ -1,6 +1,6 @@
 # grunt-svgstore-watch-starter-project
 
-![](http://charliejwalter.net/github/grunt-svgstore-watch-starter-project.gif)
+![](//charliejwalter.net/github/grunt-svgstore-watch-starter-project.gif)
 
 Basic project using [grunt-svgstore](https://github.com/FWeinb/grunt-svgstore) and [grunt-contrib-watch](https://github.com/gruntjs/grunt-contrib-watch) to run the `svgstore` task.
 
